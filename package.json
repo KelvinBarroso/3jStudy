@@ -1,0 +1,16 @@
+{
+  "name": "3js-study",
+  "version": "1.0.0",
+  "description": "Study of 3js lib.",
+  "main": "main.js",
+  "dependencies": {
+    "@types/three": "^0.139.0",
+    "three": "^0.139.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
